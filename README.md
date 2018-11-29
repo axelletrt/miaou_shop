@@ -24,10 +24,15 @@ Installation en Local: :sparkles:
 
 Features disponibles en local : 
 -Front 
+
 -Devise
+
 -Création de compte 
+
 - ActionMailer (Inscription et confirmation de commande après paiement)
+
 -Création de panier, récapitulatif de panier, total de panier 
+
 -Stripe
 
 
