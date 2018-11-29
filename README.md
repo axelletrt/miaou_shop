@@ -23,6 +23,7 @@ Installation en Local: :sparkles:
 9. Rails server 
 
 Features disponibles en local : 
+
 -Front 
 
 -Devise
