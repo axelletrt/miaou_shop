@@ -6,10 +6,10 @@ class User < ApplicationRecord
   devise :database_authenticatable, :registerable,
          :recoverable, :rememberable, :validatable
 
-  after_create :send_user_mail
-  def send_user_mail
-    UserMailer.welcome_mailer(self).deliver
-  end
+  # after_create :send_user_mail
+  # def send_user_mail
+  #   UserMailer.welcome_mailer(self).deliver
+  # end
 
 end
 
