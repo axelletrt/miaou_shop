@@ -93,4 +93,7 @@ Rails.application.configure do
   config.active_record.dump_schema_after_migration = false
 
   config.assets.initialize_on_precompile = false
+  
+  config.action_mailer.delivery_method = :mailjet
+  config.action_mailer.perform_deliveries = true
 end
