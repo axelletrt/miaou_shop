@@ -10,6 +10,26 @@ Membres du groupe :
 @axelle trt 
 
 
+Projet en production : https://miaoumiaou.herokuapp.com/
+
+Attention, le Action Mailer ne fonctionne pas en production :rage1:
+
+
+Features disponibles
+
+- Front 
+
+- Devise 
+
+- Création de compte 
+
+- Création de panier, récapitulatif de panier, total de panier 
+
+- Stripe
+
++ etc. 
+
+
 Installation en Local: :sparkles:
 
 1. Git clone 
@@ -22,22 +42,4 @@ Installation en Local: :sparkles:
 8. rails db:create, rails db:migrate, rails db:seed 
 9. Rails server 
 
-Features disponibles en local : 
 
-- Front 
-
-- Devise
-
-- Création de compte 
-
-- ActionMailer (Inscription et confirmation de commande après paiement)
-
-- Création de panier, récapitulatif de panier, total de panier 
-
-- Stripe
-
-
-Projet en production : https://miaoumiaou.herokuapp.com/
-
-
-Attention, le Action Mailer et Stripe fonctionnent uniquement en Developpement et non en production:rage1:
