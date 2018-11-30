@@ -12,7 +12,8 @@ Membres du groupe :
 
 Projet en production : https://miaoumiaou.herokuapp.com/
 
-Attention, le Action Mailer ne fonctionne pas en production :rage1:
+Le Action Mailer fonctionne en production et en local cela peut parfois prendre du temps à s'envoyer :) 
+
 
 
 Features disponibles
